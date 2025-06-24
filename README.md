@@ -9,6 +9,7 @@
 
 ## Personal Projects
 
+- **VectorisedWrapper** - Wrapper around vectorisation functions (VDSP & in the future intel IPP).
 - **Atesh** — A noisy audio plugin inspired by my desire for mixer feedback inside a VST.
 - **DelayPlugin** — A delay effect with a unique wet/dry mix visualization built with JUCE DSP.
 - **Bit Delay** — A bit crusher within a delay feedback loop, developed through experimental sound design.
